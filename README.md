@@ -1,3 +1,7 @@
+<div align="center">
+I love programming, creating new things and bringing solutions to everyday problems. <br>
+Full stack developer 💻
+</div>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
