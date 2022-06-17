@@ -1,6 +1,6 @@
 <div align="center">
 I love programming, creating new things and bringing solutions to everyday problems. <br>
-.NET Developer | Flutter | Web - Inovação - Amazônia Sistemas 💻
+.NET | Flutter | Web - Inovação - Amazônia Sistemas 💻
 </div>
 
 <div style="display: inline_block" align="center"><br>
