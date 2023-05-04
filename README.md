@@ -1,5 +1,5 @@
 <div align="center">
-I love programming, creating new things and bringing solutions to everyday problems. <br>
+Coffe? <br>
 .NET | Flutter | Web - Inovação - Amazônia Sistemas 💻
 </div>
 
