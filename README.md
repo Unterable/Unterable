@@ -1,6 +1,6 @@
 <div align="center">
 Coffe? <br>
-.NET | Flutter | Web - Inovação - Amazônia Sistemas 💻
+.NET Developer | C# | API | Blazor | Flutter | SQL | NoSQL 💻
 </div>
 
 <div style="display: inline_block" align="center"><br>
